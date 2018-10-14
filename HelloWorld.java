@@ -6,6 +6,6 @@ class HelloWorld
 		{
 			System.out.println(i+"...Hello World!");
 		}
+		System.out.println("Program Ended..!");
 	}
-	System.out.println("Program Ended..!:wq");
 }
