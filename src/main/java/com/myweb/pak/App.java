@@ -10,8 +10,9 @@ public class App
     {
         try{
         System.out.println( "Hello World!" );
+            error
         }
-        catch(Exception e)
+        catch(Excption e)
         {}
     }
 }
