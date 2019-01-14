@@ -11,7 +11,7 @@ public class App
         try{
         System.out.println( "Hello World!" );
         }
-        catch()
+        catch(Exeception e)
         {}
     }
 }
