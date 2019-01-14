@@ -1,4 +1,4 @@
-package com.mywebsite.demo;
+package com.mywebsite.pak;
 
 import static org.junit.Assert.assertTrue;
 
